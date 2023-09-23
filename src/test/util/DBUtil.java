@@ -6,6 +6,8 @@ public class DBUtil {
 
     // connect to DB
 
+    // going to filter data
+
     // read data
 
 }
